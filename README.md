@@ -19,9 +19,9 @@
 
 ## I am a Data Science MSc. Student at ETH Zürich
 
-- 📚 
-- 💪🏼 
-- ⚡ 
+- 🎓 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
+- 📚 I am currently pursuing a Master in Data Science at ETH Zürich.
+- ⚡ I am mostly interested in NLP and Computer Vision.
 
 ---
 
