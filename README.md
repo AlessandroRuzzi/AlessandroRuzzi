@@ -2,11 +2,11 @@
 </a> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
  <img align="right"  width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
- <a href="">
-  <img align="right" alt="Alessandro Ruzzi | Instagram" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
+ <a href="https://twitter.com/aruzzi9">
+  <img align="right" alt="Alessandro Ruzzi | Twitter" width="30px" src="https://raw.githubusercontent.com/AlessandroRuzzi/AlessandroRuzzi/main/twitter.png" />
 </a>
 <a href="">
-  <img align="right" alt="Alessandro Ruzzi | Facebook" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/facebook.svg" />
+  <img align="right" alt="Alessandro Ruzzi | Instagram" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alessandro-ruzzi-8abbb4151/">
   <img align="right" alt="Alessandro Ruzzi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
