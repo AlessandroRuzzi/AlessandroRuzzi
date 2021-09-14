@@ -3,7 +3,7 @@
  <img align="right"  width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
  <a href="https://twitter.com/aruzzi9">
-  <img align="right" alt="Alessandro Ruzzi | Twitter" width="30px" src="https://raw.githubusercontent.com/AlessandroRuzzi/AlessandroRuzzi/main/twitter.png" />
+  <img align="right" alt="Alessandro Ruzzi | Twitter" width="30px" src="https://raw.githubusercontent.com/AlessandroRuzzi/AlessandroRuzzi/main/assets/twitter.png" />
 </a>
 <a href="">
   <img align="right" alt="Alessandro Ruzzi | Instagram" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
