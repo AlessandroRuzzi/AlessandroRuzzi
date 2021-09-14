@@ -1,8 +1,23 @@
-# Hi there, I'm [Alessandro][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1> Hi there, I'm <a  style="display: inline;"  href="http://alessandroruzzi.github.io"> Alessandro
+</a> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:daniele.chiappalupi@gmail.com">
+ <img align="right"  width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
+</a>
+ <a href="https://www.instagram.com/danich.8/">
+  <img align="right" alt="Daniele Chiappalupi | Instagram" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/daniele.chiappalupi/">
+  <img align="right" alt="Daniele Chiappalupi | Facebook" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dchiappalupi/">
+  <img align="right" alt="Daniele Chiappalupi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
+</a>
+ </h1>
+<br />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a Data Science MSc. Student  
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## I am a Data Science MSc. Student at ETH Zürich
 
 - 📚 I am currently learning everything about ML/AI and Recommender Systems.
 - 💪🏼 Future Goals: become a PhD student in a top university.
@@ -10,7 +25,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
@@ -18,16 +33,23 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlessandroRuzzi&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<br/>
 
-### Get in touch with me 📝
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlessandroRuzzi&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandroRuzzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroRuzzi&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
-<br />
-
+<br/>
+  
 ---
 
 ### Languages and Tools 🛠 
@@ -45,21 +67,8 @@
 <br/>
 
 ---
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandroRuzzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroRuzzi&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
+ 
 
 [website]: http://alessandroruzzi.github.io
 [linkedin]: https://www.linkedin.com/in/alessandro-ruzzi-8abbb4151/
