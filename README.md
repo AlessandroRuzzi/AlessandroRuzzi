@@ -1,15 +1,15 @@
 <h1> Hi there, I'm <a  style="display: inline;"  href="http://alessandroruzzi.github.io"> Alessandro
-</a> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:daniele.chiappalupi@gmail.com">
+</a> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
  <img align="right"  width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
- <a href="https://www.instagram.com/danich.8/">
-  <img align="right" alt="Daniele Chiappalupi | Instagram" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
+ <a href="">
+  <img align="right" alt="Alessandro Ruzzi | Instagram" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/daniele.chiappalupi/">
-  <img align="right" alt="Daniele Chiappalupi | Facebook" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/facebook.svg" />
+<a href="">
+  <img align="right" alt="Alessandro Ruzzi | Facebook" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/dchiappalupi/">
-  <img align="right" alt="Daniele Chiappalupi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/alessandro-ruzzi-8abbb4151/">
+  <img align="right" alt="Alessandro Ruzzi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
 </a>
  </h1>
 <br />
