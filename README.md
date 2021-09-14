@@ -51,7 +51,7 @@
  
 ### Contributions Calendar
 
-[![isometric-calendar](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/master/github-metrics.svg)](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/master/github-metrics.svg)
+[![isometric-calendar](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg)](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg)
 
   
 ---
