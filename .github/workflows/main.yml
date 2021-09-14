@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: daniCh8
+          user: AlessandroRuzzi
           template: classic
           base: ""
           config_timezone: Europe/Rome
