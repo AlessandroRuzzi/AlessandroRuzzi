@@ -35,9 +35,7 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlessandroRuzzi&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+  <h2 align="left"> Github Statistics 📈  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlessandroRuzzi&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> </h2>
   
   <div align="center"> 
      <a href="">
@@ -49,6 +47,12 @@
 </div
 
 <br/>
+ <br/>
+ 
+### Contributions Calendar
+
+[![isometric-calendar](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)
+
   
 ---
 
