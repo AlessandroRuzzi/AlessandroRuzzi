@@ -35,7 +35,7 @@
 
 ---
 
-<br/>
+
 
   <h2 align="left"> Github Statistics 📈  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlessandroRuzzi&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> </h2>
   
