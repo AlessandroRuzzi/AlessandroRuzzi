@@ -24,7 +24,13 @@
 
 
 ### Projects :pushpin: 
- - [TODO](https://github.com/alessandroruzzi)
+ - [BeeLivingSensor Project - Microsoft AI for Earth grants](https://github.com/AlessandroRuzzi/YOLOX-Bees)
+ - [Probabilistic Artificial Intelligence Project](https://github.com/AlessandroRuzzi/probabilistic-AI-2021)
+ - [SPU Robust Neural Network Verifier (Reliable AI Project)](https://github.com/AlessandroRuzzi/Reliable-Artificial-Intelligence-2021)
+ - [Road Semantic Segmentation (Computational Intelligence Lab Project)](https://github.com/AlessandroRuzzi/Computational-Intelligence-Lab-2021)
+ - [NLP Project](https://github.com/AlessandroRuzzi/Natural-Language-Processing-2021)
+ - [Santorini (Software Engineering Project)](https://github.com/AlessandroRuzzi/Software-Engineering-Project)
+ - [Robotics Projects](https://github.com/AlessandroRuzzi/Robotics-Projects)
 ---
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
