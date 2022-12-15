@@ -50,7 +50,7 @@
 - 🎲 In my free time, I love traveling 🌇, playing videogames 🎮 and reading books 📘.
 
 
-<img align="right" alt="GIF" height="270px" width="270px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## Spotify Playing 🎧
 
@@ -68,10 +68,18 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+    <a href="https://github.com/AlessandroRuzzi/YOLOX-Bees"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=YOLOX-Bees&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="YOLOX-Bees"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
+ <a href="https://github.com/AlessandroRuzzi/Robotics-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessandroRuzzi&repo=Robotics-Projects&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robotics-Projects"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/AlessandroRuzzi?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 
  - [BeeLivingSensor Project - Microsoft AI for Earth grants](https://github.com/AlessandroRuzzi/YOLOX-Bees)
