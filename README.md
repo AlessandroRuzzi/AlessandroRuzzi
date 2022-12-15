@@ -1,21 +1,52 @@
 <h1> Hi there, I'm <a  style="display: inline;"  href="http://alessandroruzzi.github.io"> Alessandro
-</a> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
- <img align="right"  width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
+</a> <img width="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
+ <img align="right"  width="40px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/alessandro-ruzzi-eth/">
-  <img align="right" alt="Alessandro Ruzzi | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/Aruzzi/">
+  <img align="right" alt="Alessandro Ruzzi | LinkedIn" width="40px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="right" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  </h1>
 <br />
 
+![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
-<img align="right" alt="GIF" height="235px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<img align="right" alt="GIF" height="120px" width="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<br/>
 
 ## I am a Data Science MSc. Student at ETH Zürich
 
+<br/>
+<p align="left">
+  <a href="https://github.com/AlessandroRuzzi/AlessandroRuzzi">
+    <img src="https://komarev.com/ghpvc/?username=AlessandroRuzzi" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/macropower">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/AlessandroRuzzi?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlessandroRuzzi?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
+<br/>
+
 - 🎓 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
 - 📚 I am currently pursuing a Master in Data Science at ETH Zürich.
-- ⚡ I am mostly interested in Computer Vision and NLP.
+- ⚡ I am mostly interested in Computer Vision and Neural Rendering.
 - 🎲 In my free time, I love traveling 🌇, playing videogames 🎮 and reading books 📘.
 
 ---
