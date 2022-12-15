@@ -81,16 +81,6 @@
 
   <a href="https://github.com/AlessandroRuzzi?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-
- - [BeeLivingSensor Project - Microsoft AI for Earth grants](https://github.com/AlessandroRuzzi/YOLOX-Bees)
- - [Probabilistic Artificial Intelligence Project](https://github.com/AlessandroRuzzi/probabilistic-AI-2021)
- - [SPU Robust Neural Network Verifier (Reliable AI Project)](https://github.com/AlessandroRuzzi/Reliable-Artificial-Intelligence-2021)
- - [Road Semantic Segmentation (Computational Intelligence Lab Project)](https://github.com/AlessandroRuzzi/Computational-Intelligence-Lab-2021)
- - [NLP Project](https://github.com/AlessandroRuzzi/Natural-Language-Processing-2021)
- - [Santorini (Software Engineering Project)](https://github.com/AlessandroRuzzi/Software-Engineering-Project)
- - [Robotics Projects](https://github.com/AlessandroRuzzi/Robotics-Projects)
-
-
 ---
 
 
