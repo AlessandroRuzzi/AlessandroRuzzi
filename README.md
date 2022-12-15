@@ -16,7 +16,7 @@
 
 <img align="right" alt="GIF" height="120px" width="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<br/>
+
 
 ## I am a Data Science MSc. Student at ETH Zürich
 
