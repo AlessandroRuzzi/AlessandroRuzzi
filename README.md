@@ -1,5 +1,5 @@
 <h1> Hi there, I'm <a  style="display: inline;"  href="http://alessandroruzzi.github.io"> Alessandro
-</a> <img width="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
+</a> <img width="45px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
  <img align="right"  width="40px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/Aruzzi/">
