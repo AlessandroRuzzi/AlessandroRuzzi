@@ -104,20 +104,22 @@
 </div>
 
 <br/>
-<br/>
 
 
 ### Trophies 🏆
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=AlessandroRuzzi&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AlessandroRuzzi&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
- 
 <br/>
+<div align="center"> 
+ <img class="img" src="https://github-profile-trophy.vercel.app/?username=AlessandroRuzzi&theme=juicyfresh&no-frame=true&row=1&&margin-w=30&no-bg=true" />
+ </div>
+ 
 <br/>
  
 ### Contributions Calendar 📆
+<br/>
+<div align="center"> 
+ <img class="img" src="https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg" />
+ </div>
 
-
-[![isometric-calendar](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg)](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg)
 
   
 ---
