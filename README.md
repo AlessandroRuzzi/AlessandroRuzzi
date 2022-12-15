@@ -49,6 +49,15 @@
 - ⚡ I am mostly interested in Computer Vision and Neural Rendering.
 - 🎲 In my free time, I love traveling 🌇, playing videogames 🎮 and reading books 📘.
 
+
+<img align="right" alt="GIF" height="270px" width="270px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+## Spotify Playing 🎧
+
+<br/>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/alexruzzi.98?si=33643b9967ca49cf)
+
 ---
 
 
@@ -62,35 +71,33 @@
  - [NLP Project](https://github.com/AlessandroRuzzi/Natural-Language-Processing-2021)
  - [Santorini (Software Engineering Project)](https://github.com/AlessandroRuzzi/Software-Engineering-Project)
  - [Robotics Projects](https://github.com/AlessandroRuzzi/Robotics-Projects)
----
 
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/alexruzzi.98?si=33643b9967ca49cf)
 
 ---
 
 
 
-  <h2 align="left"> Github Statistics 📈  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlessandroRuzzi&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> </h2>
+ ### Github Statistics 📈 
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandroRuzzi&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroRuzzi&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
  <br/>
  
+ <div align="center"> 
+<a href="https://alessandroruzzi.github.io"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=AlessandroRuzzi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroRuzzi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+</div>
 
+<br/>
+<br/>
+
+
+### Trophies 🏆
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AlessandroRuzzi&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AlessandroRuzzi&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+ 
+<br/>
+<br/>
  
 ### Contributions Calendar 📆
+
 
 [![isometric-calendar](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg)](https://github.com/AlessandroRuzzi/AlessandroRuzzi/blob/main/github-metrics.svg)
 
