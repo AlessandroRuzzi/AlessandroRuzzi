@@ -28,10 +28,10 @@
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
+  <a href="https://stackoverflow.com/users/10325935">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10325935?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://reddit.com/u/macropower">
+  <a href="https://reddit.com/u/alez_98">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/alez_98?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/AlessandroRuzzi?tab=followers">
