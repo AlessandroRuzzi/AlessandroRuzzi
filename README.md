@@ -37,9 +37,6 @@
   <a href="https://github.com/AlessandroRuzzi?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlessandroRuzzi?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
 <br/>
