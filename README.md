@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/Aruzzi/">
   <img align="right" alt="Alessandro Ruzzi | LinkedIn" width="40px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="right" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/aruzzi98">
+  <img align="right" alt="Alessandro Ruzzi | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
  </h1>
 <br />
@@ -29,10 +29,10 @@
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
   </a>
   <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10325935?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/alez_98?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/AlessandroRuzzi?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AlessandroRuzzi?color=green&logo=github">
