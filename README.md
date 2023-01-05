@@ -1,4 +1,4 @@
-<h1> Hi there, I'm <a  style="display: inline;"  href="http://alessandroruzzi.github.io"> Alessandro
+<h1> Hi there, I'm <a  style="display: inline;"  href="http://github.com/AlessandroRuzzi"> Alessandro
 </a> <img width="45px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" />  <a  style="display: inline;"  href="mailto:ruzzi.work@gmail.com">
  <img align="right"  width="40px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
